@@ -284,7 +284,7 @@ button {
 }
 
 .section-title--keycolorlight {
-  background-color: #8cc63f;
+  background-color: #00bfff;
 }
 
 .section-title--keycolorlight .section-title__stage {
@@ -316,7 +316,7 @@ button {
   left: calc(50% - 95px);
   display: block;
   content: '';
-  background-color: #fff;
+  background-color: #00bfff;
   height: 2.6px;
   width: 190px;
 }
